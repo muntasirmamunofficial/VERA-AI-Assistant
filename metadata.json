@@ -1,0 +1,7 @@
+{
+  "name": "VERA AI Assistant",
+  "description": "Vocal Energy Real-time Assistant (VERA). A high-tech, sci-fi AI interface powered by Gemini 3.1 Flash Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
